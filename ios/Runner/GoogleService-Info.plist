@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAb7b60cPvU0Dx_QKJ3Yhk1IZxFW3LVfH4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>952281026100</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tharindu.flashChat</string>
+	<key>PROJECT_ID</key>
+	<string>app-chat-9dd9c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-chat-9dd9c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:952281026100:ios:aa57e4103ef2df85648461</string>
+</dict>
+</plist>
